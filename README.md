@@ -7,7 +7,7 @@
 
 <p align="center" style="
 ">
-  💊 Técnico en Farmacia | 💻 Desarrollador Full Stack <br>
+ 💻 Desarrollador Full Stack <br>
 </p>
 
 <p align="center">
